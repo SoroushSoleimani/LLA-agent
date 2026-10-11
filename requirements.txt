@@ -1,0 +1,10 @@
+openai>=1.0
+python-telegram-bot[job-queue]>=21,<22
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.2
+google-auth-httplib2>=0.2
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+tzdata
