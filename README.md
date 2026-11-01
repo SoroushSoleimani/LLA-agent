@@ -83,3 +83,8 @@ task list, calendar and email.
 2. Voice notes (speech-to-text in, text-to-speech out).
 3. Evening check-in and weekly review.
 4. More tools: notes, web search, your company's tools.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
